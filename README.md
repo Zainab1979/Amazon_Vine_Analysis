@@ -14,3 +14,6 @@ The Purpose of the analysis is to find the how many total reviews are there with
     
 </ul>
 
+
+https://github.com/Zainab1979/Amazon_Vine_Analysis/blob/30f907c320a125ede0161d434875dc04b0952755/paid_vine_reivews.png
+
