@@ -4,17 +4,13 @@ The Purpose of the analysis is to find the how many total reviews are there with
 
 
 <ul> 
-  <li> There are   47 Total reviews that are paid with more than 50 percent.  There are  tota of  8362 reviews that are not paid with mor than 50 percent.
-    <p> 
-   ![image](https://user-images.githubusercontent.com/117858087/233864246-033afee0-3b29-4965-98c6-a2e5b625388c.png) 
-  
-        <p> 
-          
-    </li>
+  <li> There are   47 Total reviews that are paid with more than 50 percent.  There are  tota of  8362 reviews that are not paid with mor than 50 percent </li>
 
-  <li> b </li>
+  <li> In Total 47 paid vine reviews  there are 15 reviews are 5-star. In total 8362 unpaid vine reviews  there are 4332 5 star reviews  
+   </li>
+  
+  <li> 31 Percentage of Vine reviews were 5 start and 51 percentage of non-vine reviews were 5 stars </li>
+  
+    
 </ul>
 
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
