@@ -2,6 +2,7 @@
 
 The Purpose of the analysis is to find the how many total reviews are there with Paid and unpaid vines and In the total reviews How many are 5-start rating out of total reviews . So we can find the percentage of the 5-start reviews for unpaid and paid . So that if you have all the report then  it is useful for  improvement in selling products.
 
+<H1> Results </H1>
 
 <ul> 
   <li> There are   47 Total reviews that are paid with more than 50 percent.  There are  tota of  8362 reviews that are not paid with mor than 50 percent </li>
@@ -14,6 +15,8 @@ The Purpose of the analysis is to find the how many total reviews are there with
     
 </ul>
 
+![Over_sampling](https://github.com/Zainab1979/Amazon_Vine_Analysis/blob/30f907c320a125ede0161d434875dc04b0952755/paid_vine_reivews.png) <br> 
 
-https://github.com/Zainab1979/Amazon_Vine_Analysis/blob/30f907c320a125ede0161d434875dc04b0952755/paid_vine_reivews.png
 
+
+![Over_sampling](https://github.com/Zainab1979/Amazon_Vine_Analysis/blob/30f907c320a125ede0161d434875dc04b0952755/paid_vine_reivews.png) <br> 
