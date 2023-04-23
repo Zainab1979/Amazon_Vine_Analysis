@@ -19,4 +19,4 @@ The Purpose of the analysis is to find the how many total reviews are there with
 
 
 
-![Over_sampling](https://github.com/Zainab1979/Amazon_Vine_Analysis/blob/30f907c320a125ede0161d434875dc04b0952755/paid_vine_reivews.png) <br> 
+![Over_sampling](https://github.com/Zainab1979/Amazon_Vine_Analysis/blob/93ccb7e935ec973ec428a1952da0007c729aa331/unpaid_vine_%20reviwes.png) <br> 
