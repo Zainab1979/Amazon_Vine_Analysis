@@ -20,3 +20,6 @@ The Purpose of the analysis is to find the how many total reviews are there with
 
 
 ![Over_sampling](https://github.com/Zainab1979/Amazon_Vine_Analysis/blob/93ccb7e935ec973ec428a1952da0007c729aa331/unpaid_vine_%20reviwes.png) <br> 
+## Summary: 
+there is a clear bias, as the percentage of 5 star reviews (31%) among vine reviewers is less than the percentage of 5 star reviews among non vine reviewers (51%).
+Another  analysis we can do using this data set is to calculate the percentage of reviewees that are above 3 stars instead of only considering 5 star reviews.
